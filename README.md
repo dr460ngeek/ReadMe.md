@@ -84,8 +84,6 @@ These examples prove that with determination and innovation, smart cities can th
 
 In conclusion, smart cities are more than just technological advancements. They are about creating equitable, sustainable, and efficient urban spaces for every Indian. Together, we can build a future where technology meets tradition and innovation meets inclusivity.  
 
-Thank you! We are now open to questions.”  
-
 ---
 
 ### **Time Allocation**  
@@ -95,5 +93,3 @@ Thank you! We are now open to questions.”
 - Member 4 (Challenges): ~50 seconds  
 - Member 5 (Success Stories): ~50 seconds  
 - Member 6 (Vision & Conclusion): ~50 seconds  
-
-This structure evenly divides the content and ensures the presentation stays concise and impactful. Let me know if you’d like further refinements!
