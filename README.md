@@ -1,3 +1,7 @@
+Name: Pratham Agarwal
+Topic: Notes for Sem1 POM exam.
+SUL-8646 Auto generated transcript using llama 3.2 70b hosted VPS4.5
+
 Here’s a detailed explanation of the topics in your syllabus for **Principles of Management**. You can use these summaries for quick memorization.
 
 ---
