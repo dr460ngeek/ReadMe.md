@@ -3,8 +3,7 @@
 |-----------------|---------------------------|
 | Candidate Name: | Pratham Agarwal           |
 | Topic:          | Notes for "Sem1 MMB exam" |
---
-* SUL-8646 Auto generated transcript using llama 3.2 70b hosted VPS4.5
+SUL-8646 Auto generated transcript using llama 3.2 70b hosted VPS4.5
 
 Let’s go through the topics in detail, step by step, covering all the concepts from your syllabus.
 
