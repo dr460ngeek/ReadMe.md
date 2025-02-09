@@ -1,160 +1,140 @@
 
-| Particulars     | Details                   |
-|-----------------|---------------------------|
-| Candidate Name: | Pratham Agarwal           |
-| Topic:          | Notes for "Sem1 MMB exam" |
+| Particulars     | Details                                            |
+|-----------------|----------------------------------------------------|
+| Candidate Name: | Pratham Agarwal                                    |
+| Topic:          | Notes for "Question for the Crack the password"    |
 SUL-8646 Auto generated transcript using llama 3.2 70b hosted VPS4.5
 
-Let’s go through the topics in detail, step by step, covering all the concepts from your syllabus.
+Here are 20 questions for your "Crack the Password" event. These questions are designed to be engaging, solvable by non-technical participants, and related to passwords in a fun way.  
 
 ---
 
-### **Module I: Bacteria**
+### **Moderate Difficulty (20 Questions)**  
 
-#### **Unit 1: Bacteria**
+1. **I have keys but open no locks. I have space but no room. You can enter but not go outside. What am I?**  
+   - **Answer: Keyboard**  
 
-1. **Cell Structure and Classification of Bacteria**:
-   - **Structure**:
-     - **Cell Wall**: Maintains shape and protects the cell; Gram-positive bacteria have a thick peptidoglycan layer, while Gram-negative bacteria have a thin layer with an outer membrane.
-     - **Plasma Membrane**: Semi-permeable, controls substance movement.
-     - **Cytoplasm**: Contains enzymes, nutrients, and ribosomes.
-     - **Nucleoid**: Area where the bacterial DNA is located.
-     - **Pili and Fimbriae**: Helps in adhesion to surfaces and conjugation.
-     - **Flagella**: Tail-like structures for motility.
-   - **Classification**:
-     - **Shape**: Cocci (spherical), Bacilli (rod-shaped), Spirilla (spiral).
-     - **Staining**: Gram-positive or Gram-negative based on cell wall differences.
-     - **Respiration**: Aerobes, anaerobes, facultative anaerobes.
-     - **Habitat**: Soil, water, living hosts.
+2. **I am the first thing you type when logging into most accounts. I am often a mix of letters, numbers, and symbols. What am I?**  
+   - **Answer: Password**  
 
-2. **Staining Reactions**:
-   - **Gram Staining**:
-     - Process: Crystal violet stains the cells, iodine acts as a mordant, alcohol decolorizes, and safranin provides contrast.
-     - Gram-positive retains violet, Gram-negative appears pink.
-   - **Spore Staining**:
-     - Highlights bacterial endospores (e.g., Bacillus and Clostridium species).
-   - **Acid-Fast Staining**:
-     - Used for Mycobacterium species like M. tuberculosis. Acid-fast bacteria retain carbol fuchsin dye even after acid-alcohol treatment.
+3. **The more you share me, the weaker I get. What am I?**  
+   - **Answer: A password**  
 
-3. **Bacterial Growth**:
-   - **Nutritional Requirements**: Carbon, nitrogen, sulfur, vitamins, and minerals are essential for growth.
-   - **Physical Factors**:
-     - **Temperature**: Psychrophiles (cold), mesophiles (moderate), thermophiles (hot).
-     - **pH**: Neutral pH is favorable for most bacteria.
-     - **Oxygen**: Aerobes need oxygen, anaerobes do not.
-   - **Culture Media**:
-     - Nutrient media: General growth.
-     - Selective media: Promote specific bacteria while inhibiting others.
-     - Differential media: Differentiate based on colony appearance.
-   - **Growth Curve**:
-     - Lag Phase: No increase in numbers; adaptation period.
-     - Log Phase: Rapid cell division.
-     - Stationary Phase: Growth slows due to nutrient depletion.
-     - Death Phase: Decline due to unfavorable conditions.
+4. **You use me daily but shouldn’t let others know me. I am often forgotten and need to be reset. What am I?**  
+   - **Answer: A password**  
 
-4. **Bactericidal Agents**:
-   - **Phenol**: Disrupts cell membranes and denatures proteins.
-   - **Alcohol**: Denatures proteins and dissolves lipids; effective against enveloped viruses and bacteria.
+5. **If "12345" is a weak password, what’s a stronger alternative?**  
+   - **Answer: A mix of uppercase, lowercase, numbers, and symbols (e.g., P@ssw0rd!)**  
 
-5. **Sterilization**:
-   - **Principles**: Killing/removing all forms of microbial life.
-   - **Methods**:
-     - Physical: Heat (autoclaving, dry heat), filtration, UV light.
-     - Chemical: Ethylene oxide gas, alcohols, aldehydes.
+6. **I am a combination of characters that help protect your account, and I should never be written on a sticky note. What am I?**  
+   - **Answer: A password**  
 
----
+7. **I am often required to be at least 8 characters long, contain a special symbol, and include a mix of letters and numbers. What am I?**  
+   - **Answer: A strong password**  
 
-#### **Unit 2: Bacterial Diseases**
+8. **If "apple" is too weak, how can you make it stronger while keeping it readable?**  
+   - **Answer: By adding numbers, symbols, and capitalization (e.g., @pple123!)**  
 
-1. **Respiratory Tract Infections (RTI)**: 
-   - *Causative Agents*: Streptococcus pneumoniae, Haemophilus influenzae.
-   - *Symptoms*: Cough, difficulty breathing, fever.
+9. **If you forget me, you might have to answer a security question or check your email to reset me. What am I?**  
+   - **Answer: A password**  
 
-2. **Meningitis**:
-   - *Causative Agents*: Neisseria meningitidis, Streptococcus pneumoniae.
-   - *Symptoms*: Stiff neck, fever, headache.
+10. **I am a secret key that can be stolen if written down carelessly. Cybercriminals love weak versions of me. What am I?**  
+   - **Answer: A password**
 
-3. **Enteric Infections**:
-   - *Causative Agents*: Salmonella, Shigella, E. coli.
-   - *Symptoms*: Diarrhea, abdominal pain.
+11. **I am a technique where you replace letters with numbers or symbols to strengthen a password. For example, "Password" becomes "P@ssw0rd". What is this technique called?**  
+   - **Answer: Leetspeak (1337speak)**  
 
-4. **Anaerobic Infections**:
-   - *Causative Agents*: Clostridium species.
-   - *Symptoms*: Tissue destruction, foul-smelling discharge.
+12. **If an attacker uses a list of common passwords to try logging into accounts, what type of attack is this?**  
+   - **Answer: Dictionary attack**  
 
-5. **Urinary Tract Infections (UTI)**:
-   - *Causative Agents*: E. coli.
-   - *Symptoms*: Burning urination, frequent urination.
+13. **Websites often store passwords in an unreadable format for security. What is this process called?**  
+   - **Answer: Hashing**  
 
-6. **Leprosy**:
-   - *Causative Agent*: Mycobacterium leprae.
-   - *Symptoms*: Skin lesions, nerve damage.
+14. **You receive an email pretending to be from your bank, asking for your login details. What is this attack called?**  
+   - **Answer: Phishing**  
 
-7. **Tuberculosis (TB)**:
-   - *Causative Agent*: Mycobacterium tuberculosis.
-   - *Symptoms*: Cough, weight loss, fever.
+15. **If a website enforces a password like "Minimum 12 characters, mix of uppercase, lowercase, numbers, and symbols", what is it trying to prevent?**  
+   - **Answer: Brute force attacks**  
 
-8. **Sexually Transmitted Diseases (STD)**:
-   - *Examples*: Gonorrhea (Neisseria gonorrhoeae), Syphilis (Treponema pallidum).
+6. **Instead of storing your password, a website saves a unique string generated from it, making it hard to reverse-engineer. What is this security measure called?**  
+   - **Answer: Salting and Hashing**  
 
-9. **Wound Infections**:
-   - *Causative Agents*: Staphylococcus aureus.
-   - *Symptoms*: Redness, swelling, pus formation.
+17. **What is the name of the authentication system where you enter a password and then verify your identity with a one-time code sent to your phone?**  
+   - **Answer: Two-Factor Authentication (2FA)**  
 
-10. **Hospital-Acquired Infections**:
-    - *Causative Agents*: Pseudomonas aeruginosa, MRSA (Methicillin-resistant Staphylococcus aureus).
+18. **An attacker tries every possible combination of characters to guess your password. This is called a?**  
+   - **Answer: Brute Force Attack**  
+
+19. **Why is "Pa$$word" still considered a weak password even though it contains uppercase, lowercase, symbols, and numbers?**  
+   - **Answer: It is predictable and based on a common pattern.**  
+
+20. **What does MFA stand for, and how does it enhance security?**  
+   - **Answer: Multi-Factor Authentication; it adds multiple verification layers beyond just a password.**  
+
 
 ---
 
-### **Module II: Viruses**
+### **Somewhat Easy Difficulty (20 Questions)**  
 
-#### **Unit 3: Virus**
+1. **What is the most common weak password that people use?**  
+   - **Answer: 123456**  
 
-1. **Viral Morphology**:
-   - **Capsid**: Protein coat surrounding the nucleic acid.
-   - **Envelope**: Lipid layer in some viruses; contains glycoproteins.
-   - **Genome**: DNA or RNA, single- or double-stranded.
+2. **What should you never share with strangers online?**  
+   - **Answer: Your password**  
 
-2. **Viral Genome and Classification**:
-   - Based on genome type: DNA viruses (Herpesviruses), RNA viruses (Influenza, HIV).
-   - Based on replication strategies: Positive-sense RNA, negative-sense RNA.
+3. **What should you enable to add an extra layer of security to your account besides a password?**  
+   - **Answer: Two-factor authentication (2FA)**  
 
-3. **Viral Replication**:
-   - **Attachment**: Virus binds to the host cell receptor.
-   - **Penetration**: Entry into the host cell via endocytosis or fusion.
-   - **Uncoating**: Release of viral genome.
-   - **Replication**: Genome synthesis using host machinery.
-   - **Assembly**: Formation of new virions.
-   - **Release**: Virions exit the host cell (lysis or budding).
+4. **A hacker tries to guess many passwords in a short time. What is this type of attack called?**  
+   - **Answer: Brute force attack**  
 
----
+5. **What is better: using your birthday as a password or using a random combination of characters?**  
+   - **Answer: A random combination of characters**  
 
-#### **Unit 4: Viral Diseases**
+6. **What is the best way to remember complex passwords?**  
+   - **Answer: Use a password manager**  
 
-1. **HIV**:
-   - *Causative Agent*: Human Immunodeficiency Virus.
-   - *Symptoms*: Immune system decline, opportunistic infections.
+7. **What should you do if a website says, "Your password is too weak"?**  
+   - **Answer: Make it longer and mix uppercase letters, numbers, and symbols**  
 
-2. **Hepatitis**:
-   - *Causative Agents*: Hepatitis A, B, C.
-   - *Symptoms*: Jaundice, liver damage.
+8. **If someone asks for your password in an email, what should you do?**  
+   - **Answer: Ignore the email; it’s likely a scam**  
 
-3. **Polio**:
-   - *Causative Agent*: Poliovirus.
-   - *Symptoms*: Paralysis, muscle weakness.
+9. **What happens if you use the same password for all your accounts?**  
+   - **Answer: If one account is hacked, all accounts become vulnerable**  
 
-4. **Measles**:
-   - *Causative Agent*: Measles virus.
-   - *Symptoms*: Fever, rash, cough.
+10. **A friend asks for your password to log into your account. What should you do?**  
+   - **Answer: Never share it; keep it private**
 
-5. **Rubella**:
-   - *Causative Agent*: Rubella virus.
-   - *Symptoms*: Rash, mild fever.
+11. **If a website is compromised and hackers steal password hashes, why can’t they immediately see the actual passwords?**  
+   - **Answer: Passwords are stored as hashes, which need to be cracked using computing power.**  
 
-6. **Herpes**:
-   - *Causative Agent*: Herpes simplex virus.
-   - *Symptoms*: Blisters, sores.
+12. **What is the best type of password:  
+   a) Your name + birth year  
+   b) Random characters + numbers + symbols  
+   c) "password123"**  
+   - **Answer: (b) Random characters + numbers + symbols**  
 
----
+13. **What is a "password manager," and why is it useful?**  
+   - **Answer: A tool that securely stores and auto-fills passwords to improve security.**  
 
-This detailed explanation covers all the topics comprehensively. Let me know if you’d like a specific point elaborated further!
+14. **If an attacker intercepts data between your device and a website to steal credentials, what is this attack called?**  
+   - **Answer: Man-in-the-Middle (MITM) attack**  
+
+15. **If a password hash uses a slow algorithm like bcrypt or Argon2, what advantage does it provide?**  
+   - **Answer: It makes brute-force attacks slower and less effective.**  
+
+16. **Why is using "qwerty" or "password123" dangerous?**  
+   - **Answer: They are among the most commonly used passwords and easily guessed.**  
+
+17. **What is the security risk of using the same password for multiple sites?**  
+   - **Answer: If one site is hacked, all accounts using that password are at risk.**  
+
+18. **Why should passwords be at least 12-16 characters long?**  
+   - **Answer: Longer passwords take significantly more time to brute-force.**  
+
+19. **If a hacker gets access to your email, why is it a major security risk?**  
+   - **Answer: They can reset passwords for other accounts linked to your email.**  
+
+20. **What is "credential stuffing," and how do attackers use it?**  
+   - **Answer: It’s when attackers use leaked username-password combinations from one site to log into other sites.**  
